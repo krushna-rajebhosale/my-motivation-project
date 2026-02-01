@@ -1,0 +1,29 @@
+/* General Page Styles */
+body {
+    background-color: rgb(10, 158, 221);
+    color: rgb(251, 252, 252);
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container for each poster */
+.container {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    font-family: "Libre Baskerville", serif;
+}
+
+/* Header styling */
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+/* Image styling with the 5px white border */
+.poster-img {
+    border: 5px solid white;
+    width: 100%;
+}
